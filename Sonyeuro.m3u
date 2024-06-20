@@ -8,3 +8,7 @@ https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladashi Channel", 1Trt Sports
 
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladashi Channel", Espn
+
+https://plcdn01.trimi.com.ar/live/sm-live/ESPN/sa_live_dash/ESPN-avc1_4000000=10003-init.mp4
