@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladashi Channel", Sonyliv
+#EXTINF:-1 tvg-logo="" group-title="Banglaldashi Channel", Sonyliv
 
 https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 
@@ -12,3 +12,7 @@ https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladashi Channel", Viva 6
 
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladashi Channel", Viva 4
+
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/index.m3u8
